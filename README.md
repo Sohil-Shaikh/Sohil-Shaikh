@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sohil Shaikh</h1>
 <h3 align="center">A passionate Python developer from India</h3>
 
-- 🔭 I’m currently working on **Final year project**
+- 🔭 I’m currently working on **New Project**
 
 - 🌱 I’m currently learning **AWS**
 
