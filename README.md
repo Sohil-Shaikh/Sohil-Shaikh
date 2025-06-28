@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **New Project**
 
-- 🌱 I’m currently learning **Python Full Stack Development**
+- 🌱  **Python Full Stack Development**
 
 - 👯 I’m looking to collaborate on **Python Projects**
 
